@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hola Mundo</string>
+    <string name="str_saludo">Hola</string>
+    <string name="str_boton">Aplastame</string>
+    <string name="str_android">Android!</string>
+    <string name="str_comentarios">Dame tu nombre</string>
+</resources>

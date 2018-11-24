@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ChavoSimple</string>
+    <string name="action_settings">Configuración</string>
+    <string-array name="Personajes">
+        <item>Chavo del 8</item>
+        <item>Chanfle</item>
+        <item>Chompiras</item>
+        <item>Chapulin Colorado</item>
+        <item>Chapatin</item>
+        <item>Chicharra</item>
+    </string-array>
+    <string-array name="Biografia">
+        <item>El guion surgió de un sketch escrito por Gómez Bolaños
+            en donde un niño pobre de ocho años discute con un vendedor
+            de globos en un parque.</item>
+        <item>Roberto Gómez Bolaños en 1979 realizó un largometraje
+            siendo el mismo el protagonista usando esta técnica de
+            golpear una pelota de futbol.</item>
+        <item>El Chómpiras es un personaje ficticio de televisión,
+            interpretado por Roberto Gómez Bolaños para la serie de
+            televisión Chespirito cuyo nombre real es
+            Aquiles Esquivel Madrazo; sin embargo, el mismo Chómpiras
+            afirmó llamarse también
+            Parangaricutiridolfo Parangaricutigodinez,
+            Mimí y Luisa Lane, en diferentes ocasiones.</item>
+        <item>El Chapulín Colorado es una serie de televisión mexicana,
+            parodia de los programas de superhéroes,
+            creada por Chespirito. Fue transmitida en México por
+            primera vez en 1970 como un segmento del programa Los
+            supergenios de la mesa cuadrada</item>
+        <item>El Doctor Chapatín es un personaje creado e interpretado
+            por el actor mexicano Roberto Gómez Bolaños, es un médico
+            ya entrado en años un poco loco y olvidadizo.
+            Apareció en 1968 en el programa:
+            "Los Supergenios de la mesa cuadrada",
+            una parodia de las mesas redondas de análisis de aquella época.
+            Ahí se llamaba Doctor Chespirito Chapatín y se dedicaba a contestar cartas de televidentes, de las cuales nunca daban respuestas concretas sino absurdas.</item>
+        <item>La Chicharra fue una serie de televisión mexicana, creada por Chespirito. Fue transmitida en México por primera vez a mediados de 1979 como un reemplazo del programa El Chapulín Colorado donde actuaba Chespirito. La serie no tuvo éxito, pero a pesar de su fracaso continuó como un segmento de la serie Chespirito desde 1980 hasta 1982. Su eslogan es: La Chicharra. El periódico que hace ruido.</item>
+    </string-array>
+    <string name="title_activity_biografia">Biografia</string>
+</resources>

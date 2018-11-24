@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mpp_byte"
+        android:orderInCategory="1"
+        android:title="Byte" />
+    <item
+        android:id="@+id/mpp_word"
+        android:orderInCategory="2"
+        android:title="Word" />
+    <item
+        android:id="@+id/mpp_double"
+        android:orderInCategory="3"
+        android:title="Double" />
+    <item
+        android:id="@+id/mpp_quadruple"
+        android:orderInCategory="4"
+        android:title="Quadruple" />
+</menu>

@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.itesca.lbeltran.miscontactos.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Configurar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_preferences"
+        android:orderInCategory="100"
+        android:title="Personalizar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:title="Acerca de.."
+        app:showAsAction="never" />
+</menu>
